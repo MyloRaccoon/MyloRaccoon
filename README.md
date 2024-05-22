@@ -1,10 +1,14 @@
 ## Hello, welcome to Mylo's Github !
 
+What I can do:
+
+Games using Godot
+Games using pygames
+Discord bot with python
 
 
-Discord bot in python
+Langages:
 
-Langages: \n
 [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
 
 
