@@ -4,7 +4,7 @@
 
 Discord bot in python
 
-Langages:
+Langages: \n
 [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
 
 
