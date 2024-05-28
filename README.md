@@ -2,12 +2,19 @@
 
 What I can do:
 
-Games using Godot
-Games using pygames
-Discord bot with python
+[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev) Games using Godot
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) Games using pygames
+
+[![My Skills](https://skillicons.dev/icons?i=bots)](https://skillicons.dev) Discord bot with python
+
+
+Favorite IDE:
+[![My Skills](https://skillicons.dev/icons?i=sublime)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 
 Langages:
+
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
 
