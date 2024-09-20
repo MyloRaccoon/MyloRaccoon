@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Joachim Fevre</h1>
 <h3 align="center">An informatic student who dream to become a game developper!</h3>
 
+- Lastest big personnal project : [Ping on Godot](https://github.com/MyloRaccoon/ping)
+
+- Current student project : **Raytracing in C++**
+
+- Current little personal project : [racism.exe in every langage I know (next is Scratch)](https://github.com/MyloRaccoon/racism.exe)
+
+- Latest student project : [Scrabble in Java](https://github.com/ntilleul/scrabble)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/mylo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mylo" height="30" width="40" /></a>
+<a href="https://instagram.com/mylo_raccoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mylo_raccoon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/myloraccoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="myloraccoon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
