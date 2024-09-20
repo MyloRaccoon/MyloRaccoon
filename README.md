@@ -5,7 +5,7 @@
 
 - Current student project : **Raytracing in C++**
 
-- Current little personal project : [racism.exe in every langage I know (next is Scratch)](https://github.com/MyloRaccoon/racism.exe)
+- Current little personal project : [racism.exe in every langage I know (next is C)](https://github.com/MyloRaccoon/racism.exe)
 
 - Latest student project : [Scrabble in Java](https://github.com/ntilleul/scrabble)
 
