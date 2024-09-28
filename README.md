@@ -3,11 +3,11 @@
 
 - Lastest big personnal project : [Ping on Godot](https://github.com/MyloRaccoon/ping)
 
-- Current student project : **Raytracing in C++**
+- Current academic project : **Raytracing in C++**
 
 - Current little personal project : [racism.exe in every langage I know (next is C)](https://github.com/MyloRaccoon/racism.exe)
 
-- Latest student project : [Scrabble in Java](https://github.com/ntilleul/scrabble)
+- Latest academic project : [Scrabble in Java](https://github.com/ntilleul/scrabble)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
