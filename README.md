@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Joachim Fevre</h1>
-<h3 align="center">An informatic student who dream to become a game developper!</h3>
+<h1 align="center">Hi 👋, I'm Mylo</h1>
+<h3 align="center">An IT student who dreams of becoming a game developper!</h3>
 
-- Lastest big personnal project : [Ping on Godot](https://github.com/MyloRaccoon/ping)
+- Latest big personnal project : [Ping on Godot](https://github.com/MyloRaccoon/ping)
 
 - Current academic project : **Raytracing in C++**
 
