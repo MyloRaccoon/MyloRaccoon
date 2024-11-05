@@ -5,8 +5,6 @@
 
 - Current academic project : **Raytracing in C++**
 
-- Current little personal project : [racism.exe in every langage I know (next is bash)](https://github.com/MyloRaccoon/racism.exe)
-
 - Latest academic project : [Scrabble in Java](https://github.com/ntilleul/scrabble)
 
 <h3 align="left">Connect with me:</h3>
