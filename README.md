@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/myloraccoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="myloraccoon" height="30" width="40" /></a>
-<a href="https://instagram.com/mylo_raccoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mylo_raccoon" height="30" width="40" /></a>
+<a href="https://linktr.ee/MyloRacoon" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=x03G5TG9OoEO&format=png&color=000000" height="40" width="40" alt="linktree"/> my linktr.ee</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
