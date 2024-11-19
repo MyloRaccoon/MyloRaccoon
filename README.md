@@ -7,6 +7,9 @@
 
 - Latest academic project : [Scrabble in Java](https://github.com/ntilleul/scrabble)
 
+<h3>I'm currently searching for a stage in france.</h3>
+<p>You can contact me at the mail : joachim.fevre@etu.unilim.fr</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linktr.ee/MyloRacoon" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=x03G5TG9OoEO&format=png&color=000000" height="40" width="40" alt="linktree"/> my linktr.ee</a>
