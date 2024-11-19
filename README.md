@@ -8,7 +8,7 @@
 - Latest academic project : [Scrabble in Java](https://github.com/ntilleul/scrabble)
 
 <h3>I'm currently searching for a stage in france.</h3>
-<p>You can contact me at the mail : joachim.fevre@etu.unilim.fr</p>
+<p>You can contact me at the email : joachim.fevre@etu.unilim.fr</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
