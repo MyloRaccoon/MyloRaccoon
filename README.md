@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mylo
 ##### An IT student who dreams of becoming a game developper!
 
-- Latest big personnal project : [Ping on Godot](https://github.com/MyloRaccoon/ping)
+- Latest big personnal project : [Game List](https://github.com/MyloRaccoon/game-list)
 
 - Current academic project : **Raytracing in C++**
 
