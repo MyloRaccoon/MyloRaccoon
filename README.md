@@ -15,7 +15,7 @@ https://linktr.ee/MyloRacoon
 
 
 ## Languages:
-![My languages](https://skillicons.dev/icons?i=python,java,rust,cpp,c,bash,php,html,css)
+![My languages](https://skillicons.dev/icons?i=python,rust,java,kotlin,cpp,c,bash,php,html,css)
 
 ## Tools:
 ![My tools](https://skillicons.dev/icons?i=godot,sublime,vscode,discord,github,git,windows,linux)
