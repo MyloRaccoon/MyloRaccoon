@@ -1,13 +1,13 @@
 # Hi 👋, I'm Mylo
 ##### An IT student who dreams of becoming a game developper!
 
-- Latest big personnal project : [Game List](https://github.com/MyloRaccoon/game-list)
+- Latest personnal project : [Cool Passowrd](https://github.com/MyloRaccoon/CoolPassword)
 
-- Current academic project : **Raytracing in C++**
+- Current academic project : UPCI for Indre
 
-- Latest academic project : [Scrabble in Java](https://github.com/ntilleul/scrabble)
+- Latest academic project : **Raytracing in C++**
 
-## I'm currently searching for a stage in france.
+## I'm currently searching for an "alternance" in france.
 You can contact me at the email : joachim.fevre@etu.unilim.fr
 
 ## Connect with me:
