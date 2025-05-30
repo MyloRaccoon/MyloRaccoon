@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mylo
 ##### An IT student who dreams of becoming a game developper!
 
-- Latest personnal project : [Cool Passowrd](https://github.com/MyloRaccoon/CoolPassword)
+- Latest personnal project : [Cool Password](https://github.com/MyloRaccoon/CoolPassword)
 
 - Current academic project : UPCI for Indre
 
