@@ -1,11 +1,11 @@
 # Hi 👋, I'm Mylo
 ##### An IT student who dreams of becoming a game developper!
 
-- Latest personnal project : [Cool Password](https://github.com/MyloRaccoon/CoolPassword)
+- Current personnal project : [Cool Birthday GNOME Extension](https://github.com/MyloRaccoon/CoolBirthday-GnomeExtension)
 
-- Current academic project : UPCI for Indre
+- Latest personnal project : [Cool Birthday](https://github.com/MyloRaccoon/CoolBirthday)
 
-- Latest academic project : **Raytracing in C++**
+- Latest academic project : UPCI for Indre
 
 ## I'm currently searching for an "alternance" in france.
 You can contact me at the email : joachim.fevre@etu.unilim.fr
