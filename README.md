@@ -5,8 +5,6 @@
 
 - Latest personnal project : [Cool Birthday](https://github.com/MyloRaccoon/CoolBirthday)
 
-- Latest academic project : UPCI for Indre
-
 ## I'm currently searching for an "alternance" in france.
 You can contact me at the email : joachim.fevre@etu.unilim.fr
 
