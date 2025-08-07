@@ -5,9 +5,6 @@
 
 - Latest personnal project : [Cool Birthday](https://github.com/MyloRaccoon/CoolBirthday)
 
-## I'm currently searching for an "alternance" in france.
-You can contact me at : joachim.fevre@etu.unilim.fr
-
 ## Connect with me:
 https://linktr.ee/MyloRacoon
 
