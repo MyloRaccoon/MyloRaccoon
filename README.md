@@ -1,9 +1,9 @@
 # Hi 👋, I'm Mylo
 ##### An IT student who dreams of becoming a game developper!
 
-- Current personnal project : [Cool Birthday GNOME Extension](https://github.com/MyloRaccoon/CoolBirthday-GnomeExtension)
+- Current personnal project : [YTMTUI](https://github.com/MyloRaccoon/YTMTUI)
 
-- Latest personnal project : [Cool Birthday](https://github.com/MyloRaccoon/CoolBirthday)
+- Latest personnal project : [Cool Birthday Gnome Extension](https://github.com/MyloRaccoon/CoolBirthday-GnomeExtension)
 
 ## Connect with me:
 https://linktr.ee/MyloRacoon
