@@ -1,9 +1,9 @@
 # Hi 👋, I'm Mylo
 ##### An IT student who dreams of becoming a game developper!
 
-- Current personnal project : [AniList Discord RPC](https://github.com/MyloRaccoon/AnilistDiscordRPC)
+- Current personnal project : [Portfolio with Godot](https://github.com/MyloRaccoon/portfolio)
 
-- Latest personnal project : [Cool Music Bot](https://github.com/MyloRaccoon/CoolMusicBot)
+- Latest personnal project : [AniList Discord RPC](https://github.com/MyloRaccoon/AnilistDiscordRPC)
 
 ## Connect with me:
 https://linktr.ee/MyloRacoon
