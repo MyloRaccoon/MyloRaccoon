@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mylo
 ##### An IT student who dreams of becoming a game developper!
 
-- Current personnal project : [CooLnk]([https://github.com/MyloRaccoon/portfolio](https://github.com/MyloRaccoon/CooLnk))
+- Current personnal project : [CooLnk](https://github.com/MyloRaccoon/CooLnk)
 
 - Latest personnal project : [Godot Discord RPC](https://github.com/MyloRaccoon/GodotDiscordRPC)
 
